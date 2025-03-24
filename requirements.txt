@@ -2,4 +2,3 @@ httpx
 fastapi
 python-dotenv
 uvicorn
-fastapi-corsmiddleware
